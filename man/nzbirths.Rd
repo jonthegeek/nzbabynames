@@ -16,7 +16,7 @@ A data frame:
 nzbirths
 }
 \description{
-Data on live births from 1935-2017. Data from 1971 includes live births by
+Data on live births from 1935-2023. Data from 1971 includes live births by
 sex. \emph{Note: Data before 1991 includes New Zealand residents and overseas
 visitors. Data from 1991 includes New Zealand residents only.}
 }
